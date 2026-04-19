@@ -1,2 +1,2 @@
-# Quantum-Computing
+# Quantum teleportation
 Quantum Circuits Development
